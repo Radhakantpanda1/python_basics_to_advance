@@ -1,0 +1,19 @@
+Python
+-> dynamic programming language 
+-> object oriented 
+-> scripting
+-> helps in communicating with machine
+
+why python ?
+- simple syntax
+- lots of libraries( package of functions and )
+- automation 
+- data mining
+- image processing
+- API's
+- data science
+- quality of software
+- productivity of developers
+- Portability
+- Supporting libraries
+- Fun to use ... lot more
