@@ -25,4 +25,3 @@ else:
     print("Tax to be paid= ", income_tax_percentage)
     tax_to_be_paid=(30/100)*user_salary
     print("Amount to be paid =",tax_to_be_paid)
-
