@@ -9,3 +9,8 @@ print(b and a) # 10
 
 print(4 or 8)  # 4
 print( 8 or 4) # 8
+
+x=['a','b',['c']]
+for i in range(len(x)):
+    print(i)
+    i=i-1
