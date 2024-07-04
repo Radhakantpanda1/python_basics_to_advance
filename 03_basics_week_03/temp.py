@@ -14,3 +14,8 @@ x=['a','b',['c']]
 for i in range(len(x)):
     print(i)
     i=i-1
+
+abc=['a']
+abc.pop(0)
+print(abc)
+
