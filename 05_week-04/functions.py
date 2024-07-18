@@ -44,3 +44,4 @@ def hold(*hld): # *args --> static of args when we dont know how many arguments 
     print(type(hld))
 
 hold('sinu','rkp',[1,5,9])
+
